@@ -8,7 +8,7 @@ for_example:
 	@outputs/for_example_with_openmp
 	@echo ----------------------------------------\|
 
-consistency:
+consistency_example:
 	@echo Running without OpenMP flush consistency
 	@echo ----------------------------------------\|
 	@outputs/no_flush_example
